@@ -1,13 +1,5 @@
 
-### Hey 👋🏽, I'm [Rukmoni !](https://abhisheknaidu.tech) 
-
-<br/>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=rukmoni.rukmoni)
-
-<br />
-
+### Hey 👋🏽, I'm [Rukmoni !](https://rukstech.netlify.app/) 
 Hi, I'm Rukmoni Nagarajan, a React,ReactNative , JS with Nodejs Developer , Passionated developer Handling React and React Native Projects with  all latest methodologies like Redux, Hooks etc. Also Having exposure in backend technologies like Node.js, Express.js and Java. Online profile @ https://rukstech.netlify.app/
 
 
